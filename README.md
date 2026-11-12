@@ -130,7 +130,7 @@ Repo-level secret scanning (push protection, pre-commit hooks, CI scanning) catc
 
 - `app_light.py`: the chatbot, ingestion scanner, and output filter
 - `docs/`: fake company documents, including `vendor_notes.md` (the poisoned one)
-- `before_and_after_results.md`: raw attack logs
+- `results.md`: raw attack logs
 
 ## Safety note
 
